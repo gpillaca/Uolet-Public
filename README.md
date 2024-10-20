@@ -27,14 +27,13 @@ Download Uolet and organize your personal finances today!
 | --- | --- |
 | <img src= "https://github.com/gpillaca/Uolet-Public/blob/main/screenshot/debs.png" width=300 /> | <img src= "https://github.com/gpillaca/Uolet-Public/blob/main/screenshot/add_debt.png" width=300 /> |
 
-
 ## Build
 - [x] [KTS gradle files](https://docs.gradle.org/current/userguide/platforms.html)
 - [x] [Version catalog](https://developer.android.com/build/migrate-to-catalogs)
 
 ## Architecture
-- [x] UI using [Jetpack Compose](https://developer.android.com/develop/ui/compose) - WIP
-- [x] [Navigation Compose](https://developer.android.com/develop/ui/compose/navigation) - WIP
+- [x] UI using [Jetpack Compose](https://developer.android.com/develop/ui/compose)
+- [x] [Navigation Compose](https://developer.android.com/develop/ui/compose/navigation)
 - [x] Dependency injection with [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
 - [x] [Jetpack ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - [x] [Jetpack Navigation](https://developer.android.com/develop/ui/compose/navigation)
